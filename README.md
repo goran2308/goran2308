@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goran2308
 - 👀 I’m interested in mastering JavaScript and React, but also other technologies.
-- 🌱 I’m currently learning Algorythms 😵‍💫
+- 🌱 I’m currently learning Astro 😵‍💫
 - 📫 Reach me on solev.goran(at)gmail.com
 
 <!---
