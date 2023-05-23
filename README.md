@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @goran2308
-- 👀 I’m interested in mastering JavaScript and React, but also other technologies.
-- 🌱 I’m currently learning Astro.js + React.js = 😵‍💫
+- 👀 I’m mainly interested in JavaScript, but also other technologies.
 - 📫 [solev.goran@gmail.com](mailto:solev.goran@gmail.com)
 - 🌐 [goransolev.com](https://goransolev.com/)
  
